@@ -1,1 +1,1 @@
-{{"SadeI7": {"UUID": "28C28570-33C6-0000-0000-000000000000", "DesktopName": "DESKTOP-8HV5BFR", "Processador": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "Usuario": "felip"}}
+{"SadeI7": {"UUID": "28C28570-33C6-0000-0000-000000000000", "DesktopName": "DESKTOP-8HV5BFR", "Processador": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "Usuario": "felip"}}
